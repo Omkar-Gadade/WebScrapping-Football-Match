@@ -11,8 +11,9 @@ Scrape match data using requests, BeautifulSoup, and pandas library.
 You can find the code for this project here.
 
 ## File overview:
-scraping.ipynb - a Jupyter notebook file that scrapes our data with explaination for each cell of code executed.
+scraping.ipynb - a Jupyter notebook file that scrapes our data.
 Matches.csv - Extracted Matches Data from FBref.com Website to CSV file.
+Webscrapping_PJ_explaination_each_cell.ipynb - a Jupyter Notebook file same as scraping.ipynb file but with explaination for each cell of code executed.
 
 
 ## Local Setup:
